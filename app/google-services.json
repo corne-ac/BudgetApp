@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207187582177",
+    "project_id": "budget-9d102",
+    "storage_bucket": "budget-9d102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207187582177:android:e5cc2bd73cb7a56013aba0",
+        "android_client_info": {
+          "package_name": "com.corne.budgetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207187582177-uil1883v82br72ljnufm38rmgoa69j2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs7HqPQbLYlsU0r3exCyMSFFLzkeo5kgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207187582177-uil1883v82br72ljnufm38rmgoa69j2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
