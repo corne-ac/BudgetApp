@@ -1,7 +1,8 @@
-package com.corne.budgetapp
+package com.corne.budgetapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.corne.budgetapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
